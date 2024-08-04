@@ -63,7 +63,7 @@ ul li a:hover{
     float: left;
     margin-left: 300px;
 }
-.srch{
+srch{
     font-family: 'Times New Roman';
     width: 200px;
     height: 40px;
@@ -78,7 +78,7 @@ ul li a:hover{
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
 }
-.btn{
+btn{
     width: 100px;
     height: 40px;
     background: #ff7200;
@@ -89,10 +89,10 @@ ul li a:hover{
     border-bottom-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
-.btn:focus{
+btn:focus{
     outline: none;
 }
-.srch:focus{
+srch:focus{
     outline: none
 }
 .content{
